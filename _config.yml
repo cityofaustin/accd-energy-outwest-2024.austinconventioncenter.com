@@ -10,10 +10,6 @@ event_coordinator:
   name: James Randall
   email: james.randall@austintexas.gov
   phone: 5124044223
-utility_coordinator:
-  name: Ben Hamilton
-  email: ben.hamilton@austintexas.gov
-  phone: 5124044236
 security_coordinator:
   name: Marcela Lopes
   email: marcela.lopes@austintexas.gov
